@@ -1,0 +1,17 @@
+{
+    "name": "administrator/bingfa",
+    "autoload": {
+        "psr-4": {
+            "Administrator\\Bingfa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "evidwong",
+            "email": "76572677@qq.com"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^1.7"
+    }
+}
